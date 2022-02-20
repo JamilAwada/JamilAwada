@@ -15,4 +15,4 @@
 - Product Management 🔃
 
 ## Connect with me on LinkedIn
-[LinkedIn:] (https://www.linkedin.com/in/jamil-awada-864442230/)
+[<img align="left" alt="linkedin" width="10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw1Yx93Kas9Y92k57c1fcf72&ust=1645440516225000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDZ-N-NjvYCFQAAAAAdAAAAABAD"](https://www.linkedin.com/in/jamil-awada-864442230/)
