@@ -14,5 +14,4 @@
 - Product Design 🎨✏️
 - Product Management 🔃
 
-## Connect with me on LinkedIn
-[<img align="left" alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/jamil-awada-864442230/)
+Connect with me on LinkedIn [<img align="left" alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/jamil-awada-864442230/)
