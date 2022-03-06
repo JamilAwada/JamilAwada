@@ -1,17 +1,16 @@
 ### Hello, I'm Jamil and I'm not very good with usernames. 
 
-## I'm a CS student, Fitness Enthusiast, Developer, and Dog Lover. A bit about myself: 
+## I'm a Business-oriented CS student, Fitness Enthusiast, Developer, and Dog Lover. A bit about myself: 
 - I'm proudly Lebanese 🇱🇧
-- I'm an aspiring Front End Developer 💻
-- I'm working on a personal not-for-profit startup hoping to fight climate change 🌲🐋
+- I'm an aspiring Front End Developer and Mobile Developer 💻
+- I'm working on a personal startup aimed towards helping underprivileged families in the MENA region 👶 👨‍👩‍👦
 - I'm also constantly working on improving myself in all aspects of life 💪🧠💰
-- I'm fluent in Morse Code 🔈
+- I'm fluent in Morse Code 🔈 ⚫ 
 - My favorite programming language is Java ☕ 
 
-## Some of my favorite technologies and concepts that I plan on (hopefully) learning eventually (Aside from Front End and Mobile Development):
-- Computer Vision 💻 👁️👁️
-- Machine Learning Models 🤖🖊️
-- Product Design 🎨✏️
-- Product Management 🔃
+## Some of my favorite technologies, concepts and skills that I plan on (hopefully) grasping eventually (Aside from Front End and Mobile Development):
+- UI/UX Design 🎨✏️
+- Product Management and Design 🔃 📱
+- Leadership and Business Development 🕴️ 🧑‍🤝‍🧑
 
-### Connect with me on LinkedIn[<img alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/jamil-awada-864442230/)
+### Connect with me on LinkedIn [<img alt="linkedin" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/jamil-awada-864442230/)
