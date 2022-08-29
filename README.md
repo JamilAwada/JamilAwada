@@ -2,13 +2,12 @@
 
 ## I'm a Business-oriented CS student, Fitness Enthusiast, Developer, and Dog Lover. A bit about myself: 
 - I'm proudly Lebanese 🇱🇧
-- I'm an aspiring Front End Developer and Mobile Developer 💻
-- I'm working on a personal startup aimed towards helping underprivileged families in the MENA region 👶 👨‍👩‍👦
+- I'm an aspiring Front End Developer 💻
 - I'm also constantly working on improving myself in all aspects of life 💪🧠💰
 - I'm fluent in Morse Code 🔈 ⚫ 
 - My favorite programming language is Java ☕ 
 
-## Some of my favorite technologies, concepts and skills that I plan on (hopefully) grasping eventually (Aside from Front End and Mobile Development):
+## Some of my favorite technologies, concepts and skills that I plan on (hopefully) grasping eventually:
 - UI/UX Design 🎨✏️
 - Product Management and Design 🔃 📱
 - Leadership and Business Development 🕴️ 🧑‍🤝‍🧑
